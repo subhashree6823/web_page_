@@ -1,6 +1,6 @@
 1. Change directory to frontend
-2. run the react app with npm run start
-3. use axios,xaamp to connect to SQL server and run the code
+2. Run the react app with npm run start
+3. Use axios,xaamp to connect to SQL server and run the code
 4. "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
